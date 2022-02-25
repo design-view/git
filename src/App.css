@@ -1,0 +1,14 @@
+* { margin: 0; padding: 0; box-sizing: border-box;}
+a { text-decoration: none; color: inherit; }
+li { list-style: none; }
+body {
+  font-family: "맑은고딕";
+  font-size: 14px;
+  line-height: 1.5;
+  color: #333;
+}
+.innerCon {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
